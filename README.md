@@ -2,7 +2,7 @@
 
 <div style="display: inline-block; margin-bottom: 20px;">
   <img style="margin-right: 40px;" src="https://github-readme-stats.vercel.app/api?username=Gui250&show_icons=true&theme=radical" alt="Guilherme GitHub stats" />
-  <img style="margin-right: 40px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Top Langs" />
+  <img style="margin-right: 40px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui250&layout=compact" alt="Top Langs" />
 </div>
 
 ## Tecnologias que eu uso
