@@ -1,8 +1,6 @@
 ### Olá! Eu sou o Guilherme Moreno ✋
 
-<div style="display: inline-block; margin-bottom: 20px;">
-  <img style="margin-right: 40px;" src="https://github-readme-stats.vercel.app/api?username=Gui250&show_icons=true&theme=radical" alt="Guilherme GitHub stats" />
-</div>
+
 
 ## Tecnologias que eu uso
 
