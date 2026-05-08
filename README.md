@@ -38,6 +38,9 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Gui250&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Gui250&theme=dracula&no-frame=false&no-bg=true&margin-w=4" height="150" alt="trophy graph"  />
 </div>
 
