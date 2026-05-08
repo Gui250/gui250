@@ -47,9 +47,12 @@
   <img src="https://streak-stats.demolab.com?user=Gui250&theme=dracula" />
 </div>
 
-<!-- TROPHY FULL WIDTH -->
+<!-- TROPHY FUNCIONANDO (SEM ACTION) -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Gui250/Gui250/trophy-output/github-profile-trophy.svg" width="100%" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Gui250&theme=dracula&row=1&column=7&margin-w=10&margin-h=10" 
+    width="100%" 
+  />
 </div>
 
 ###
