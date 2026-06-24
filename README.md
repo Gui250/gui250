@@ -1,4 +1,3 @@
-
 <h1 data-importer="text" align="center">Olá sou Guilherme Moreno 👋</h1>
 
 ###
@@ -39,11 +38,8 @@
 
 ###
 
-<div align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=Gui250&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" 
-    alt="trophy graph" 
-  />
+<div data-importer="stats" align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Gui250&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" alt="trophy graph" />
 </div>
 
 ###
