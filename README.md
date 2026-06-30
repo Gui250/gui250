@@ -4,7 +4,7 @@
 
 <div data-importer="techs" align="center">
   <img 
-    src="https://i.icoziv.workers.dev/icons?i=python,numpy,pandas,jupyter,scikitlearn,mlflow,fastapi,streamlit,sql,postgresql,azure" 
+    src="https://i.icoziv.workers.dev/icons?i=python,r,numpy,pandas,jupyter,scikitlearn,mlflow,fastapi,streamlit,sql,postgresql,mongodb,redis,sqlite,azure" 
     alt="Tech Skills" 
   />
 </div>
