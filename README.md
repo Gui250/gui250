@@ -3,7 +3,7 @@
 ###
 
 <div data-importer="techs" align="center">
-  <img src="[![Icoziv Skills](https://i.icoziv.workers.dev/icons?i=python,numpy,pandas,jupyter,scikitlearn,mlflow,fastapi,streamlit,sql,postgresql,azure,gcp)](https://github.com/thuongtruong109/icoziv)"/>
+  <img src="https://i.icoziv.workers.dev/icons?i=python,numpy,pandas,jupyter,tensorflow,pytorch,scikitlearn,mlflow,fastapi,streamlit,sql,postgresql,azure,gcp"/>
 </div>
 
 ###
