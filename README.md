@@ -1,5 +1,5 @@
  <h1 data-importer="text" align="center">Olá, sou Guilherme Moreno 👋</h1>
-###
+
 <div data-importer="techs" align="center">
   <img 
     src="https://i.icoziv.workers.dev/icons?i=python,r,numpy,pandas,jupyter,scikitlearn,mlflow,fastapi,streamlit,sql,postgresql,mongodb,redis,sqlite,azure" 
@@ -7,7 +7,6 @@
     alt="Tech Skills" 
   />
 </div>
-###
 <div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/guilherme-moreno-a02535371/" target="_blank">
     <img 
@@ -17,7 +16,7 @@
     />
   </a>
 </div>
-###
+
 <div data-importer="stats" align="center">
   <img 
     src="https://streak-stats.demolab.com?user=Gui250&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&order=3" 
@@ -25,7 +24,7 @@
     alt="GitHub streak graph"  
   />
 </div>
-###
+
 <div data-importer="image" align="center">
   <img 
     data-importer="image" 
