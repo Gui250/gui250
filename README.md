@@ -4,7 +4,20 @@
 
 <div data-importer="techs" align="center">
   <img 
-    src="https://i.icoziv.workers.dev/icons?i=python,r,numpy,pandas,jupyter,scikitlearn,mlflow,fastapi,streamlit,sql,postgresql,mongodb,redis,sqlite,azure" 
+    src="https://i.icoziv.workers.dev/icons?i=python,r,numpy,pandas,jupyter" 
+    height="55"
+    alt="Tech Skills" 
+  />
+  <br><br>
+  <img 
+    src="https://i.icoziv.workers.dev/icons?i=scikitlearn,mlflow,fastapi,streamlit,sql" 
+    height="55"
+    alt="Tech Skills" 
+  />
+  <br><br>
+  <img 
+    src="https://i.icoziv.workers.dev/icons?i=postgresql,mongodb,redis,sqlite,azure" 
+    height="55"
     alt="Tech Skills" 
   />
 </div>
