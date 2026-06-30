@@ -3,7 +3,7 @@
 ###
 
 <div data-importer="techs" align="center">
-  <img src="https://i.icoziv.workers.dev/icons?i=python,numpy,pandas,jupyter,tensorflow,pytorch,scikitlearn,mlflow,fastapi,streamlit,sql,postgresql,azure,gcp"/>
+  <a href="https://i.icoziv.workers.dev/icons?i=python,numpy,pandas,jupyter,tensorflow,pytorch,scikitlearn,mlflow,fastapi,streamlit,sql,postgresql,azure,gcp"/>
 </div>
 
 ###
